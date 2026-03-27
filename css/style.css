@@ -1,1 +1,8 @@
-/* Add any custom CSS stylings you want here */
+body {
+  background-color: #f8f9fa;
+}
+
+#gif-container img {
+  height: 220px;
+  object-fit: cover;
+}
